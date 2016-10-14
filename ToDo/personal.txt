@@ -1,0 +1,3 @@
+[31mEAT[0m
+run
+walk
